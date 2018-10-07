@@ -2,4 +2,6 @@
 
 1. [Kautuk Kundan](https://github.com/kautukkundan)
 2. [Aarush Ahuja](https://github.com/arush15june)
-3. [Divyanshu Sharma](https://github.com/divyanshusharma1709)
+3. [Vinayakk Garg](https://github.com/vinayakkgarg)
+4. [Chetan Madan](https://github.com/ChetanMadan)
+5. [Divyanshu Sharma](https://github.com/divyanshusharma1709)
