@@ -7,3 +7,4 @@
 5. [Chetan Madan](https://github.com/ChetanMadan)
 6. [Divyanshu Sharma](https://github.com/divyanshusharma1709)
 7. [Nikunj Dhingra](https://github.com/Nikunj2102)
+7. [Bhanupratap Singh](https://github.com/asterisk-bhanu)
