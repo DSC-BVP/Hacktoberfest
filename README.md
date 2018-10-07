@@ -10,6 +10,7 @@ https://dsc-bvp.github.io/Hacktoberfest/
 Create a account on Github
 
 https://github.com
+
 ![screenshot from 2018-10-03 01-55-18](https://user-images.githubusercontent.com/29003047/46375174-58228080-c6b0-11e8-9735-82645c2801f4.png)
 
 
@@ -17,6 +18,7 @@ https://github.com
 Register yourself for Hacktoberfest.
 
 [https://hacktoberfest.digitalocean.com/sign_up/register](https://hacktoberfest.digitalocean.com/sign_up/register)
+
 ![screenshot from 2018-10-03 02-00-08](https://user-images.githubusercontent.com/29003047/46375349-d8e17c80-c6b0-11e8-9380-0805b67a532f.png)
 
 
