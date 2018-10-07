@@ -7,8 +7,5 @@
 5. [Chetan Madan](https://github.com/ChetanMadan)
 6. [Divyanshu Sharma](https://github.com/divyanshusharma1709)
 7. [Nikunj Dhingra](https://github.com/Nikunj2102)
-<<<<<<< HEAD
-7. [Bhanupratap Singh](https://github.com/asterisk-bhanu)
-=======
-8. [Kunal Raghav](https://github.com/KunalRaghav)
->>>>>>> 2b93cb615325cc106a8577486ddfaafec028d03d
+8. [Bhanupratap Singh](https://github.com/asterisk-bhanu)
+9. [Kunal Raghav](https://github.com/KunalRaghav)
