@@ -57,6 +57,7 @@ body{
 .m-card > .name{
     font-size: 25pt;
     font-weight: bold;
+    text-transform: capitalize
 }
 
 .m-card > .msg{
