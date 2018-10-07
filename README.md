@@ -92,6 +92,6 @@ Now open the repository which you forked in your account and click on the Compar
 
 ## Step 10
 open [dsc-bvp.github.io/Hacktoberfest](https://dsc-bvp.github.io/Hacktoberfest)
-when your PR will be merged it will appear on the page
+when your PR will be merged it will appear on the page (Even after the PR is merged, It will take some time for the page to update)
 
 ![screenshot from 2018-10-07 20-24-55](https://user-images.githubusercontent.com/23727056/46583263-91bd0800-ca71-11e8-8dd7-4222ab74c9b7.png)
