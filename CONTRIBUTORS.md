@@ -17,3 +17,4 @@
 15. [Gunnika Batra](https://github.com/Gunnika)
 16. [Gyantosh Kumar](https://github.com/Gyantoshkumar)
 17. [Shubhank Saxena](https://github.com/shubhank-saxena)
+18. [Vansh Kapoor](https://github.com/vanshkapoor)
