@@ -20,4 +20,5 @@
 18. [Pallavi Garg](https://github.com/plvigarg)
 19. [Yash Garg](https://github.com/Yash-Garg)
 20. [Vansh Kapoor](https://github.com/vanshkapoor)
-21. [Chetan Chawla](https://github.com/chetanchawla)
+21. [Aakash Rastogi](https://github.com/aakashrstg00)
+22. [Chetan Chawla](https://github.com/chetanchawla)
