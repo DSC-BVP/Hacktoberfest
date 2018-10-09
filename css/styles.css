@@ -97,6 +97,7 @@ hr{
     color:#FF9A55;
     margin-top: 6px;
 }
+
 @media only screen and (max-width: 600px) {
     .cover {
         min-height: 100vh;
