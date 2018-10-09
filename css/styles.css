@@ -52,6 +52,8 @@ body{
     background: white;
     border-radius: 10px;
     padding: 8%; 
+    transition: all .2s ease-in-out;
+    opacity: 0.7;
 }
 
 .m-card > .name{
@@ -70,6 +72,12 @@ body{
     font-size: 20pt; 
 }
 
+.m-card:hover
+{
+    transform: scale(1.05);
+    opacity:1;
+}
+
 a:link {
     color: rgb(54, 54, 54);
 }
@@ -86,6 +94,16 @@ a:hover {
 .footer {
     height: 5vh;
     background: rgb(36, 36, 36)
+}
+#icon{
+    color: #FF9A55;
+}
+hr{
+    width: 80%;
+}
+#fb{
+    color:#FF9A55;
+    margin-top: 6px;
 }
 
 @media only screen and (max-width: 600px) {
