@@ -22,3 +22,4 @@
 20. [Vansh Kapoor](https://github.com/vanshkapoor)
 21. [Aakash Rastogi](https://github.com/aakashrstg00)
 22. [Chetan Chawla](https://github.com/chetanchawla)
+23. [Piyush Gupta](https://github.com/piyush-98)
