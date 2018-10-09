@@ -23,3 +23,4 @@
 21. [Aakash Rastogi](https://github.com/aakashrstg00)
 22. [Chetan Chawla](https://github.com/chetanchawla)
 23. [Parul Aggarwal](https://github.com/parulagg27)
+24. [Piyush Gupta](https://github.com/piyush-98)
