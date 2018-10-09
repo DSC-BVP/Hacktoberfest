@@ -87,6 +87,16 @@ a:hover {
     height: 5vh;
     background: rgb(36, 36, 36)
 }
+#icon{
+    color: #FF9A55;
+}
+hr{
+    width: 80%;
+}
+#fb{
+    color:#FF9A55;
+    margin-top: 6px;
+}
 
 @media only screen and (max-width: 600px) {
     .cover {
