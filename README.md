@@ -10,6 +10,7 @@ https://dsc-bvp.github.io/Hacktoberfest/
 Create a account on Github
 
 https://github.com
+
 ![screenshot from 2018-10-03 01-55-18](https://user-images.githubusercontent.com/29003047/46375174-58228080-c6b0-11e8-9735-82645c2801f4.png)
 
 
@@ -17,6 +18,7 @@ https://github.com
 Register yourself for Hacktoberfest.
 
 [https://hacktoberfest.digitalocean.com/sign_up/register](https://hacktoberfest.digitalocean.com/sign_up/register)
+
 ![screenshot from 2018-10-03 02-00-08](https://user-images.githubusercontent.com/29003047/46375349-d8e17c80-c6b0-11e8-9380-0805b67a532f.png)
 
 
@@ -54,9 +56,9 @@ Add your name in contributors.md file in this format
 
 ![screenshot from 2018-10-07 20-20-56](https://user-images.githubusercontent.com/23727056/46583219-cb414380-ca70-11e8-923c-c1a8044065e7.png)
 
-Put your name 
-Put your personal message 
-Put the address of your github link 
+1. Put your name 
+2. Put your personal message 
+3. Put the address of your github link , all in index.html file in the format shown below.
 
 ![screenshot from 2018-10-07 20-21-36](https://user-images.githubusercontent.com/23727056/46583221-cbd9da00-ca70-11e8-8b99-088b20ea4101.png)
 
