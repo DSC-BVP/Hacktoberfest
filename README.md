@@ -42,10 +42,10 @@ Fork this repository on your profile
 
 ## Step 6 
 Open Terminal and type in these commands
-```
-cd Desktop
-git clone (paste the url obtained from clicking on "Clone or download" option on YOUR OWN PROFILE)
-cd Hacktoberfest
+```bash
+$ cd Desktop
+$ git clone (paste the url obtained from clicking on "Clone or download" option on YOUR OWN PROFILE)
+$ cd Hacktoberfest
 ```
 
 ![screenshot from 2018-10-07 20-20-18](https://user-images.githubusercontent.com/23727056/46583205-92a16a00-ca70-11e8-8437-5455cd21912b.png)
@@ -64,8 +64,8 @@ Add your name in contributors.md file in this format
 
 
 ## Step 8
-```
-git remote add upstream https://github.com/DSC-BVP/Hacktoberfest/
+```bash
+$ git remote add upstream https://github.com/DSC-BVP/Hacktoberfest/
 ```
 
 ![screenshot from 2018-10-07 20-22-03](https://user-images.githubusercontent.com/23727056/46583237-19564700-ca71-11e8-9e33-535294216c92.png)
@@ -74,11 +74,11 @@ git remote add upstream https://github.com/DSC-BVP/Hacktoberfest/
 
 ## Step 9
 Then:-
-```
-git pull upstream master
-git add -A 
-git commit -m “your commit message”
-git push --set-upstream origin master
+```bash
+$ git pull upstream master
+$ git add -A 
+$ git commit -m “your commit message”
+$ git push --set-upstream origin master
 ```
 Then, type your github username and password
 
@@ -93,7 +93,7 @@ Now open the repository which you forked in your account and click on the Compar
 
 
 ## Step 10
-open [dsc-bvp.github.io/Hacktoberfest](https://dsc-bvp.github.io/Hacktoberfest)
+Open [dsc-bvp.github.io/Hacktoberfest](https://dsc-bvp.github.io/Hacktoberfest)
 when your PR will be merged it will appear on the page (Even after the PR is merged, It will take some time for the page to update)
 
 ![screenshot from 2018-10-07 20-24-55](https://user-images.githubusercontent.com/23727056/46583263-91bd0800-ca71-11e8-8dd7-4222ab74c9b7.png)
