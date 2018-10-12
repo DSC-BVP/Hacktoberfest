@@ -42,14 +42,10 @@ body{
 }
 
 .buffer {
-    height: 25vh;
+    height: 40vh;
     background: #FF9A55;
 }
 
-.buffer_1 {
-    height: 55vh;
-    background: #FF9A55;
-}
 .event {
     background: #FFC107;
 }
