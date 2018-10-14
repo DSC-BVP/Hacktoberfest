@@ -42,7 +42,7 @@ body{
 }
 
 .buffer {
-    height: 40vh;
+    height: 30vh;
     background: #FF9A55;
 }
 
@@ -127,6 +127,10 @@ hr{
 #fb{
     color:#FF9A55;
     margin-top: 6px;
+}
+
+.info {
+    padding: 2%;
 }
 
 @media only screen and (max-width: 600px) {
