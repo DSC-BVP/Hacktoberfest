@@ -44,7 +44,7 @@
 43. [Aditya Singhal](https://github.com/codaked-Adi)
 44. [Simrann Arora](https://github.com/simrann20)
 45. [Kunal Aggarwal](https://github.com/kunalagg04)
-46. [Karan Randhir] (https://github.com/KaranRandhir)
+46. [Karan Randhir](https://github.com/KaranRandhir)
 47. [Abhiyansh Arya](https://github.com/abhiyansh)
 48. [Vaibhav Gulati](https://github.com/gulvaibhav20)
-
+49. [Isha Agarwal](https://github.com/cbLife98)
