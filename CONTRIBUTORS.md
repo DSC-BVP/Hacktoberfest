@@ -41,4 +41,4 @@
 39. [Rashmi Nagpal](https://github.com/RN0311)
 40. [Mayank Aggarwal](https://github.com/ronwon)
 41. [Shaurya Agarwal](https://github.com/ShauryaAg)
-42. [Sumit Kumar](https://github.com/sumitk9887)
+42. [Sumit](https://github.com/sumitk9887)
