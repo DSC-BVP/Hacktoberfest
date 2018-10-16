@@ -42,3 +42,7 @@
 40. [Mayank Aggarwal](https://github.com/ronwon)
 41. [Shaurya Agarwal](https://github.com/ShauryaAg)
 42. [Manthan Keim](https://github.com/Manthankeim)
+43. [Aditya Singhal](https://github.com/codaked-Adi)
+44. [Simrann Arora](https://github.com/simrann20)
+45. [Kunal Aggarwal](https://github.com/kunalagg04)
+46. [Karan Randhir] (https://github.com/KaranRandhir)
