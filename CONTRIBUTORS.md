@@ -42,3 +42,5 @@
 40. [Mayank Aggarwal](https://github.com/ronwon)
 41. [Shaurya Agarwal](https://github.com/ShauryaAg)
 42. [Abhishek Singh](https://github.com/razerboygrim)
+43. [Aditya Singhal](https://github.com/codaked-Adi)
+44. [Shaurya Agarwal](https://github.com/ShauryaAg)
