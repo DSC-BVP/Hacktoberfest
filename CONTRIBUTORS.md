@@ -40,4 +40,5 @@
 38. [Jaskeerat Singh Randhawa](https://github.com/jaskeerat789)
 39. [Rashmi Nagpal](https://github.com/RN0311)
 40. [Mayank Aggarwal](https://github.com/ronwon)
-40. [Aditya Singhal](https://github.com/codaked-Adi)
+41. [Aditya Singhal](https://github.com/codaked-Adi)
+42. [Shaurya Agarwal](https://github.com/ShauryaAg)
