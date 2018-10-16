@@ -14,6 +14,7 @@
 12. [Abhay Kaushik](https://github.com/AbhayKaushik)
 13. [Aaditya Varshney](https://github.com/AadityaVarshney)
 14. [Divyansh Agarwal](https://github.com/Divyansh12)
+
 15. [Gunnika Batra](https://github.com/Gunnika)
 16. [Gyantosh Kumar](https://github.com/Gyantoshkumar)
 17. [Shubhank Saxena](https://github.com/shubhank-saxena)
@@ -41,3 +42,5 @@
 39. [Rashmi Nagpal](https://github.com/RN0311)
 40. [Mayank Aggarwal](https://github.com/ronwon)
 41. [Shaurya Agarwal](https://github.com/ShauryaAg)
+
+42. [Abhinav Mangla](https://github.com/abhinavmangla)
