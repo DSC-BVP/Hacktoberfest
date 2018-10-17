@@ -85,14 +85,14 @@ Then, type your github username and password
 ![screenshot from 2018-10-07 20-22-46](https://user-images.githubusercontent.com/23727056/46583252-57ec0180-ca71-11e8-80ff-f0b5d612c8c0.png)
 
 
-## Step 9 
+## Step 10
 Now open the repository which you forked in your account and click on the Compare and Pull Request
 
 ![screenshot from 2018-10-07 20-23-35](https://user-images.githubusercontent.com/23727056/46583255-6a663b00-ca71-11e8-8fc1-10652e0840da.png)
 ![screenshot from 2018-10-07 20-23-53](https://user-images.githubusercontent.com/23727056/46583256-6afed180-ca71-11e8-991c-534d642fc6af.png)
 
 
-## Step 10
+## Step 11
 Open [dsc-bvp.github.io/Hacktoberfest](https://dsc-bvp.github.io/Hacktoberfest)
 when your PR will be merged it will appear on the page (Even after the PR is merged, It will take some time for the page to update)
 
