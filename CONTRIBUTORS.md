@@ -52,3 +52,4 @@
 51. [Yatharth Manocha](https://github.com/YaMo97)
 52. [Charu Goyal](https://github.com/Charugoyal3)
 53. [Ritwiz Sinha](https://github.com/ritwizsinha)
+54. [Ina Singhal](https://github.com/inasinghal17)
