@@ -50,3 +50,4 @@
 49. [Manvi Nibra](https://github.com/ManviNibra)
 50. [OG](https://github.com/godswillokokon)
 51. [Yatharth Manocha](https://github.com/YaMo97)
+52. [Charu Goyal](https://github.com/Charugoyal3)
