@@ -40,7 +40,8 @@
 38. [Jaskeerat Singh Randhawa](https://github.com/jaskeerat789)
 39. [Rashmi Nagpal](https://github.com/RN0311)
 40. [Mayank Aggarwal](https://github.com/ronwon)
-41. [Shaurya Agarwal](https://github.com/ShauryaAg)
+41. [krishana kumar](https://github.com/krishana18kumar)
+42. [Shaurya Agarwal](https://github.com/ShauryaAg)
 43. [Aditya Singhal](https://github.com/codaked-Adi)
 44. [Simrann Arora](https://github.com/simrann20)
 45. [Kunal Aggarwal](https://github.com/kunalagg04)
@@ -54,4 +55,5 @@
 53. [Ritwiz Sinha](https://github.com/ritwizsinha)
 54. [Ina Singhal](https://github.com/inasinghal17)
 55. [Isha Agarwal](https://github.com/cbLife98)
+
 
