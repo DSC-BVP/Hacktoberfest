@@ -1,0 +1,4 @@
+some basics about PigLatin .
+If we take any and it starts with a vowel than add 'ay' to end.
+If the choosen word does not starts with vowels than put first letter at the end than add'ay'.
+thats it ;/
