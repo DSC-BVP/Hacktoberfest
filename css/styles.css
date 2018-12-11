@@ -104,11 +104,13 @@ a:link {
 }
 
 a:visited {
-	color: rgb(31, 31, 31);
+	/* Changed color so it remains its original color form*/
+	color: white;
 }
 
 a:hover {
-	color: rgb(100, 100, 100);
+	/* Changed the color to orange because it suited the website*/
+	color: orange;
 	text-decoration: none;
 }
 
