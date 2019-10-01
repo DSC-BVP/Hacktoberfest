@@ -25,16 +25,26 @@ body {
 	overflow: hidden;
 	max-width: 100vw;
 	min-height: 100vh;
-	background: #572c41;
+	background: #152347;
 }
 
 .cover-desc {
-	color: #ff9a55;
+	color: #94eafd;
 }
 
 .icon {
 	width: 38vw;
 	max-height: 100%;
+}
+
+.btn{
+	background: #a457c6;
+	color: white;
+}
+
+.btn:hover{
+	background: #94eafd;
+	color: black
 }
 
 .title {
@@ -45,7 +55,8 @@ body {
 
 .buffer {
 	height: 30vh;
-	background: #ff9a55;
+	background: #68336b;
+	color: white
 }
 
 .event {
@@ -60,6 +71,11 @@ body {
 	overflow-y: auto;
 	transition: all 0.2s ease-in-out;
 	opacity: 0.7;
+}
+
+.mcardStyle{
+	background: #152347;
+    color: white;
 }
 
 .m-card::-webkit-scrollbar-track {
@@ -100,17 +116,17 @@ body {
 }
 
 a:link {
-	color: rgb(54, 54, 54);
+	color: grey;
 }
 
 a:visited {
 	/* Changed color so it remains its original color form*/
-	color: white;
+	color: #94eafd;
 }
 
 a:hover {
 	/* Changed the color to orange because it suited the website*/
-	color: orange;
+	color: #ce59ba;
 	text-decoration: none;
 }
 
@@ -119,13 +135,13 @@ a:hover {
 	background: rgb(36, 36, 36);
 }
 #icon {
-	color: #ff9a55;
+	color: #ce59ba;
 }
 hr {
 	width: 80%;
 }
 #fb {
-	color: #ff9a55;
+	color: #94eafd;
 	margin-top: 6px;
 }
 
