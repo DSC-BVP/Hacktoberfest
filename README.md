@@ -17,9 +17,11 @@ https://github.com
 ## Step 2 
 Register yourself for Hacktoberfest.
 
-[https://hacktoberfest.digitalocean.com/sign_up/register](https://hacktoberfest.digitalocean.com/sign_up/register)
+[https://hacktoberfest.digitalocean.com/register](https://hacktoberfest.digitalocean.com/register)
 
-![screenshot from 2018-10-03 02-00-08](https://user-images.githubusercontent.com/29003047/46375349-d8e17c80-c6b0-11e8-9380-0805b67a532f.png)
+<!-- ![screenshot from 2018-10-03 02-00-08](https://user-images.githubusercontent.com/29003047/46375349-d8e17c80-c6b0-11e8-9380-0805b67a532f.png) -->
+
+![Screenshot (24)](https://user-images.githubusercontent.com/31778302/65990265-e5a5d580-e4a8-11e9-8768-ca63fc4b33d0.png)
 
 
 ## Step 3 
@@ -96,4 +98,6 @@ Now open the repository which you forked in your account and click on the Compar
 Open [dsc-bvp.github.io/Hacktoberfest](https://dsc-bvp.github.io/Hacktoberfest)
 when your PR will be merged it will appear on the page (Even after the PR is merged, It will take some time for the page to update)
 
-![screenshot from 2018-10-07 20-24-55](https://user-images.githubusercontent.com/23727056/46583263-91bd0800-ca71-11e8-8dd7-4222ab74c9b7.png)
+<!-- ![screenshot from 2018-10-07 20-24-55](https://user-images.githubusercontent.com/23727056/46583263-91bd0800-ca71-11e8-8dd7-4222ab74c9b7.png) -->
+
+![Screenshot (25)](https://user-images.githubusercontent.com/31778302/65990433-3289ac00-e4a9-11e9-92dc-b5a2fff1e55a.png)
