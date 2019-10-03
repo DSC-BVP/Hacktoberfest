@@ -55,8 +55,10 @@ $ cd Hacktoberfest
 
 ## Step 7 
 Add your name in contributors.md file in this format
+<!-- 
+![screenshot from 2018-10-07 20-20-56](https://user-images.githubusercontent.com/23727056/46583219-cb414380-ca70-11e8-923c-c1a8044065e7.png) -->
 
-![screenshot from 2018-10-07 20-20-56](https://user-images.githubusercontent.com/23727056/46583219-cb414380-ca70-11e8-923c-c1a8044065e7.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/31778302/66141813-f75eb880-e621-11e9-87a6-f4cb611fe477.png)
 
 1. Put your name 
 2. Put your personal message 
