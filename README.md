@@ -62,8 +62,9 @@ Add your name in contributors.md file in this format
 2. Put your personal message 
 3. Put the address of your github link , all in index.html file in the format shown below.
 
-![screenshot from 2018-10-07 20-21-36](https://user-images.githubusercontent.com/23727056/46583221-cbd9da00-ca70-11e8-8b99-088b20ea4101.png)
+<!-- ![screenshot from 2018-10-07 20-21-36](https://user-images.githubusercontent.com/23727056/46583221-cbd9da00-ca70-11e8-8b99-088b20ea4101.png) -->
 
+![Screenshot (26)](https://user-images.githubusercontent.com/31778302/66140933-9387c000-e620-11e9-82d4-8afc0a7e0d39.png)
 
 ## Step 8
 ```bash
@@ -100,4 +101,4 @@ when your PR will be merged it will appear on the page (Even after the PR is mer
 
 <!-- ![screenshot from 2018-10-07 20-24-55](https://user-images.githubusercontent.com/23727056/46583263-91bd0800-ca71-11e8-8dd7-4222ab74c9b7.png) -->
 
-![Screenshot (25)](https://user-images.githubusercontent.com/31778302/65990433-3289ac00-e4a9-11e9-92dc-b5a2fff1e55a.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/31778302/66140938-94b8ed00-e620-11e9-899b-63fa09421a58.png)
