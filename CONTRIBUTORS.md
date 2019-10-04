@@ -66,3 +66,4 @@
 ### 2019
 
 1. [Shaurya Agarwal](https://github.com/ShauryaAg)
+2. [Stephen Fischer](https://github/com/teav)
