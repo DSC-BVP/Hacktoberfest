@@ -94,6 +94,8 @@ Then, type your github username and password
 Now open the repository which you forked in your account and click on the Compare and Pull Request
 
 ![screenshot from 2018-10-07 20-23-35](https://user-images.githubusercontent.com/23727056/46583255-6a663b00-ca71-11e8-8fc1-10652e0840da.png)
+
+
 ![screenshot from 2018-10-07 20-23-53](https://user-images.githubusercontent.com/23727056/46583256-6afed180-ca71-11e8-991c-534d642fc6af.png)
 
 
