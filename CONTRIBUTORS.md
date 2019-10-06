@@ -1,5 +1,13 @@
 # List of all contributors
 
+## 2019
+
+1. [Shaurya Agarwal](https://github.com/ShauryaAg)
+
+
+
+## 2018
+
 1. [Kautuk Kundan](https://github.com/kautukkundan)
 2. [Aarush Ahuja](https://github.com/arush15june)
 3. [Chetan Madan](https://github.com/ChetanMadan)
