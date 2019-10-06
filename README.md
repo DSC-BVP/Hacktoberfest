@@ -58,7 +58,7 @@ Add your name in contributors.md file in this format
 <!-- 
 ![screenshot from 2018-10-07 20-20-56](https://user-images.githubusercontent.com/23727056/46583219-cb414380-ca70-11e8-923c-c1a8044065e7.png) -->
 
-![Screenshot (28)](https://user-images.githubusercontent.com/31778302/66141813-f75eb880-e621-11e9-87a6-f4cb611fe477.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/31778302/66143935-a355d300-e625-11e9-9a5a-0bbeb90d1bb7.png)
 
 1. Put your name 
 2. Put your personal message 
@@ -103,4 +103,4 @@ when your PR will be merged it will appear on the page (Even after the PR is mer
 
 <!-- ![screenshot from 2018-10-07 20-24-55](https://user-images.githubusercontent.com/23727056/46583263-91bd0800-ca71-11e8-8dd7-4222ab74c9b7.png) -->
 
-![Screenshot (27)](https://user-images.githubusercontent.com/31778302/66140938-94b8ed00-e620-11e9-899b-63fa09421a58.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/31778302/66143934-a2bd3c80-e625-11e9-833d-910eff188a71.png)
