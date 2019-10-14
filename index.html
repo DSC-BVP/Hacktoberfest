@@ -34,6 +34,7 @@
 </head>
 
 <body>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">TOP<img src="images/top.png" width="20px" height="30px"></button>
     <div class="cover">
         
             <div class="title"><i id="icon" class="fas fa-code"></i>
@@ -65,10 +66,15 @@
                 <br><br>
             </div>
         </div>
+
+        
     </div>
     </div>
     </div>
 
+    </div>
+    <div class="dd">
+            <center><a href="https://developers.google.com/community/dsc"><img src="images/dsc.png" width="60px" height="60px"><h5>Developer Student Club</h5></a></center>
     </div>
     <div class="buffer_1">
         <div class="v_m text-center">
@@ -1092,6 +1098,23 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
 
+
+        <script>
+            var mybutton = document.getElementById("myBtn");
+            window.onscroll = function() {scrollFunction()};
+
+            function scrollFunction() {
+              if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                mybutton.style.display = "block";
+              } else {
+                mybutton.style.display = "none";
+              }
+            }
+            function topFunction() {
+              document.body.scrollTop = 0;
+              document.documentElement.scrollTop = 0;
+            }
+        </script>
 </body>
 
 </html>
