@@ -68,3 +68,4 @@
 59. [komal](https://github.com/komal180)
 60. [Patricia Ciortea](https://github.com/patri05)
 61. [FAruk](https://github.com/farukx)
+62. [Sruthi Sekar](https://github.com/sruthisekar98)
