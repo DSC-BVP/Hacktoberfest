@@ -1,5 +1,13 @@
 # List of all contributors
 
+## 2019
+
+1. [Shaurya Agarwal](https://github.com/ShauryaAg)
+
+
+
+## 2018
+
 1. [Kautuk Kundan](https://github.com/kautukkundan)
 2. [Aarush Ahuja](https://github.com/arush15june)
 3. [Chetan Madan](https://github.com/ChetanMadan)
@@ -25,3 +33,38 @@
 23. [Parul Aggarwal](https://github.com/parulagg27)
 24. [Piyush Gupta](https://github.com/piyush-98)
 25. [Dikshant Sagar](https://github.com/dikshantsagar)
+26. [Gaurav Jain](https://github.com/gauravjain98)
+27. [J.D.](https://github.com/jdxx)
+28. [Akanshu Raj](https://github.com/akannshu)
+29. [Swapnil](https://github.com/iamalsaher)
+30. [Brody Underwood](https://github.com/BrodyUnderwood1)
+31. [Sarthak gupta](https://github.com/sarthak-g)
+32. [Chirag Gandhi](https://github.com/chiraggandhi123)
+33. [Utkarsh Kumar](https://github.com/Utkarsh9799)
+34. [Sandy Edwards](https://github.com/slowbeam)
+35. [Pulkit Khagta](https://github.com/PulkitKhagta)
+36. [Coderjolly](https://github.com/Coderjolly)
+37. [Jatin Aggarwal](https://github.com/jatinagg1)
+38. [Jaskeerat Singh Randhawa](https://github.com/jaskeerat789)
+39. [Rashmi Nagpal](https://github.com/RN0311)
+40. [Mayank Aggarwal](https://github.com/ronwon)
+41. [Shaurya Agarwal](https://github.com/ShauryaAg)
+43. [Aditya Singhal](https://github.com/codaked-Adi)
+44. [Simrann Arora](https://github.com/simrann20)
+45. [Kunal Aggarwal](https://github.com/kunalagg04)
+46. [Karan Randhir](https://github.com/KaranRandhir)
+47. [Abhiyansh Arya](https://github.com/abhiyansh)
+48. [Vaibhav Gulati](https://github.com/gulvaibhav20)
+49. [Manvi Nibra](https://github.com/ManviNibra)
+50. [OG](https://github.com/godswillokokon)
+51. [Yatharth Manocha](https://github.com/YaMo97)
+52. [Charu Goyal](https://github.com/Charugoyal3)
+53. [Ritwiz Sinha](https://github.com/ritwizsinha)
+54. [Ina Singhal](https://github.com/inasinghal17)
+55. [Isha Agarwal](https://github.com/cbLife98)
+56. [Sakaar](https://github.com/schmosbyy/)
+57. [Aditya Dogra](https://github.com/Aditya1399)
+58. [Shobhit Sagar](https://github.com/ShobhitSagar)
+59. [komal](https://github.com/komal180)
+60. [Patricia Ciortea](https://github.com/patri05)
+61. [FAruk](https://github.com/farukx)
