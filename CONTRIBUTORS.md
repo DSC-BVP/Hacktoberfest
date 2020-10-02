@@ -49,6 +49,9 @@
 39. [Rashmi Nagpal](https://github.com/RN0311)
 40. [Mayank Aggarwal](https://github.com/ronwon)
 41. [Shaurya Agarwal](https://github.com/ShauryaAg)
+<<<<<<< HEAD
+42. [Devansh](https://github.com/devanshhooda)
+=======
 43. [Aditya Singhal](https://github.com/codaked-Adi)
 44. [Simrann Arora](https://github.com/simrann20)
 45. [Kunal Aggarwal](https://github.com/kunalagg04)
@@ -68,3 +71,4 @@
 59. [komal](https://github.com/komal180)
 60. [Patricia Ciortea](https://github.com/patri05)
 61. [FAruk](https://github.com/farukx)
+>>>>>>> 35b2c59d4da4db525dad92c1423d613adc9c0a7a
