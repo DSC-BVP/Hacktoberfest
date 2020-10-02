@@ -1,5 +1,13 @@
 # List of all contributors
 
+## 2019
+
+1. [Shaurya Agarwal](https://github.com/ShauryaAg)
+
+
+
+## 2018
+
 1. [Kautuk Kundan](https://github.com/kautukkundan)
 2. [Aarush Ahuja](https://github.com/arush15june)
 3. [Chetan Madan](https://github.com/ChetanMadan)
@@ -41,4 +49,26 @@
 39. [Rashmi Nagpal](https://github.com/RN0311)
 40. [Mayank Aggarwal](https://github.com/ronwon)
 41. [Shaurya Agarwal](https://github.com/ShauryaAg)
+<<<<<<< HEAD
 42. [Devansh](https://github.com/devanshhooda)
+=======
+43. [Aditya Singhal](https://github.com/codaked-Adi)
+44. [Simrann Arora](https://github.com/simrann20)
+45. [Kunal Aggarwal](https://github.com/kunalagg04)
+46. [Karan Randhir](https://github.com/KaranRandhir)
+47. [Abhiyansh Arya](https://github.com/abhiyansh)
+48. [Vaibhav Gulati](https://github.com/gulvaibhav20)
+49. [Manvi Nibra](https://github.com/ManviNibra)
+50. [OG](https://github.com/godswillokokon)
+51. [Yatharth Manocha](https://github.com/YaMo97)
+52. [Charu Goyal](https://github.com/Charugoyal3)
+53. [Ritwiz Sinha](https://github.com/ritwizsinha)
+54. [Ina Singhal](https://github.com/inasinghal17)
+55. [Isha Agarwal](https://github.com/cbLife98)
+56. [Sakaar](https://github.com/schmosbyy/)
+57. [Aditya Dogra](https://github.com/Aditya1399)
+58. [Shobhit Sagar](https://github.com/ShobhitSagar)
+59. [komal](https://github.com/komal180)
+60. [Patricia Ciortea](https://github.com/patri05)
+61. [FAruk](https://github.com/farukx)
+>>>>>>> 35b2c59d4da4db525dad92c1423d613adc9c0a7a
