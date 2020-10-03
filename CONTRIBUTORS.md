@@ -1,4 +1,7 @@
 # List of all contributors
+## 2020
+1. [harshita gupta](https://github.com/harshitacodes)
+
 
 ## 2019
 
