@@ -1,4 +1,7 @@
 # List of all contributors
+## 2020
+
+1. [Arindam Ghosh](https://github.com/pappughosh)
 
 ## 2019
 
