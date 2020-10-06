@@ -1,5 +1,8 @@
 # List of all contributors
 
+## 2020
+1. [Hasna Akbar Ali](https://github.come/hasna-akbarali)
+
 ## 2019
 
 1. [Shaurya Agarwal](https://github.com/ShauryaAg)
