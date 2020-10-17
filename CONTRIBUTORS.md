@@ -68,3 +68,7 @@
 59. [komal](https://github.com/komal180)
 60. [Patricia Ciortea](https://github.com/patri05)
 61. [FAruk](https://github.com/farukx)
+
+## 2020
+
+62. [Qausain Manzoor](https://github.com/Qausain)
