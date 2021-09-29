@@ -1,5 +1,7 @@
 # List of all contributors
 
+## 2021
+1. [Salman Prottoy](https://github.com/salmanprottoy)
 ## 2019
 
 1. [Shaurya Agarwal](https://github.com/ShauryaAg)
