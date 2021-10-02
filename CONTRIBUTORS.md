@@ -1,5 +1,10 @@
 # List of all contributors
 
+
+## 2020
+1. [Mahendra singh](https://github.com/mahendrarathore1742)
+
+
 ## 2019
 
 1. [Shaurya Agarwal](https://github.com/ShauryaAg)
