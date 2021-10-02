@@ -7,7 +7,7 @@ Website link on which you will contribute
 https://dsc-bvp.github.io/Hacktoberfest/
 
 ## Step 1 
-Create a account on Github
+Create a account on Github.
 
 https://github.com
 
@@ -54,7 +54,7 @@ $ cd Hacktoberfest
 
 
 ## Step 7 
-Add your name in contributors.md file in this format
+Add your name in contributors.md file in this format.
 <!-- 
 ![screenshot from 2018-10-07 20-20-56](https://user-images.githubusercontent.com/23727056/46583219-cb414380-ca70-11e8-923c-c1a8044065e7.png) -->
 
@@ -91,7 +91,8 @@ Then, type your github username and password
 
 
 ## Step 10
-Now open the repository which you forked in your account and click on the Compare and Pull Request
+Now open the repository which you forked in your account and click on the Compare and Pull Request.
+
 
 ![screenshot from 2018-10-07 20-23-35](https://user-images.githubusercontent.com/23727056/46583255-6a663b00-ca71-11e8-8fc1-10652e0840da.png)
 ![screenshot from 2018-10-07 20-23-53](https://user-images.githubusercontent.com/23727056/46583256-6afed180-ca71-11e8-991c-534d642fc6af.png)
