@@ -1,5 +1,9 @@
 # List of all contributors
 
+## 2022
+1. [Samarth Singh Bachhotiya](https://github.com/ApidBoy)
+
+
 ## 2019
 
 1. [Shaurya Agarwal](https://github.com/ShauryaAg)

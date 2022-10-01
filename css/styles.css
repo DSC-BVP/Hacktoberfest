@@ -25,7 +25,7 @@ body {
 	overflow: hidden;
 	max-width: 100vw;
 	min-height: 100vh;
-	background: #152347;
+	background: #190E1D;
 }
 
 .cover-desc {
@@ -33,7 +33,7 @@ body {
 }
 
 .icon {
-	width: 38vw;
+	width: 55vw;
 	max-height: 100%;
 }
 
