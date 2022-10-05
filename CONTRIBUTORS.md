@@ -1,5 +1,11 @@
 # List of all contributors
 
+
+## 2022
+
+1. [Ayush Mishra](https://github.com/Ayush05m)
+
+
 ## 2019
 
 1. [Shaurya Agarwal](https://github.com/ShauryaAg)
