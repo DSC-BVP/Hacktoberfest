@@ -24,7 +24,7 @@ Register yourself for Hacktoberfest.
 ![Screenshot (24)](https://user-images.githubusercontent.com/31778302/65990265-e5a5d580-e4a8-11e9-8768-ca63fc4b33d0.png)
 
 
-## Step 3 
+## Step 3 Remember this is Imp
 This is the link of the repository that you guys will be contributing to.
 https://github.com/DSC-BVP/Hacktoberfest/
 
