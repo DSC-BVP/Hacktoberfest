@@ -1,5 +1,10 @@
 # List of all contributors
 
+
+## 2022
+
+1. [Mukul Goyal](https://github.com/Mukul1235)
+
 ## 2019
 
 1. [Shaurya Agarwal](https://github.com/ShauryaAg)
