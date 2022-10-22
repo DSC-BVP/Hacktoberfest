@@ -1,5 +1,10 @@
 # List of all contributors
 
+## 2022
+
+1. [Shreya Agarwal](https://github.com/shreya24ag)
+ 
+
 ## 2019
 
 1. [Shaurya Agarwal](https://github.com/ShauryaAg)
