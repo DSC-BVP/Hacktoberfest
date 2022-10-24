@@ -1,5 +1,11 @@
 # List of all contributors
 
+## 2023
+
+1. [Manjesh M](https://github.com/manjesh2022)
+
+
+
 ## 2019
 
 1. [Shaurya Agarwal](https://github.com/ShauryaAg)
