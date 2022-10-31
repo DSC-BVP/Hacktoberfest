@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <link rel="icon" type="image/x-icon" href="D:\icon\$RHQD7IF.ico">
+	<meta charset="utf-8">
+	<title>css border Effect</title>
+	<style type="text/css"></style>
+	  <style>
+	  	*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.body
+{
+	
+	background-color: black;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	min-height: 100vh;
+
+}
+.box
+{	
+	position: relative;
+	background-color: white;
+	width: 300px;
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.box::before
+{
+	content: '';
+	position: absolute;
+	top:-4px;
+	left: -4px;
+	right: -4px;
+	bottom: -4px;
+	transform: skew(2deg) skew(4deg);
+	background: linear-gradient(315deg,#00ccff,#0e1538,#d400d4);
+
+}
+.box::after
+{
+	content: '';
+	position: absolute;
+	top:-4px;
+	left: -4px;
+	right: -4px;
+	bottom: -4px;
+	transform: skew(2deg) skew(4deg);
+	background: linear-gradient(315deg,#00ccff,#0e1538,#d400d4);
+	filter: blur(50px);
+
+}
+.box span
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: black;
+	z-index: 1;
+}
+.box h1
+{
+	position: relative;
+	z-index:2 ;
+	color: white;	
+	font-size: 100px;
+	font-family: arial;
+}
+	  </style>
+
+</head>
+<body style="background-color:black;">
+<div class="body">
+<div class="box">
+	<span> </span>
+	<h1>PS</h1>
+</div>
+
+<div class="box">
+	<span> </span>
+	<h1>HTML</h1>
+</div>
+
+<div class="box">
+	<span> </span>
+	<h1>CSS</h1>
+</div>
+</div>
+</body>
+</html>
