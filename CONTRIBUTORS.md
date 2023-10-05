@@ -1,4 +1,6 @@
 # List of all contributors
+## 2023
+1.  [Raj Vardhan Chaudhary](https://github.com/rajchaudhary99)
 
 ## 2019
 
