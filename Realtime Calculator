@@ -1,0 +1,158 @@
+HTML: --
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculate me! - A Calculator made by me</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    
+</head>
+<body>
+    <h1 class="text-center">CALCULATOR</h1>
+  <div class="container flex flex-col items-center  mx-auto m-w-20">
+    <div class="row">
+      <input class="input" type="text" />
+    </div>
+    <div class="row">
+      <button class="button">C</button>
+      <button class="button">%</button>
+      <button class="button">X</button>
+      <button class="button">*</button>
+    </div>
+    <div class="row">
+      <button class="button">7</button>
+      <button class="button">8</button>
+      <button class="button">9</button>
+      <button class="button">/</button>
+    </div>
+    <div class="row">
+      <button class="button">4</button>
+      <button class="button">5</button>
+      <button class="button">6</button>
+      <button class="button">+</button>
+    </div>
+    <div class="row">
+      <button class="button">1</button>
+      <button class="button">2</button>
+      <button class="button">3</button>
+      <button class="button">-</button>
+    </div>
+    <div class="row">
+      <button class="button">0</button>
+      <button class="button">00</button>
+      <button class="button">.</button>
+      <button class="button">=</button>
+    </div>
+  </div>
+  <footer>
+    <div class="pras-ryt">&copy copyright Prashant Calculator (2022)   Version "V-1.6stf34"   IP_address -01.13f45:34
+    </div>
+  </footer>
+  <script src="script.js"></script>
+
+</body>    
+</html>
+
+
+
+CSS: --
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.button{
+  padding: 20px;
+  margin: 0 3px;
+  border: 3px solid white;
+  border-radius: 9px;
+  cursor: pointer;
+  width: 64px;
+  color: black;
+  background:aqua;
+  font-weight: 840;
+  font-style: oblique;
+  
+}
+.row input{
+  font-size: 19.4px;
+  margin: 0;
+  padding: 10px 20px;
+  border: 3px solid aqua;
+  border-radius: 5px;
+  font-weight: 800;
+  font-style: oblique;
+  background-color: white;
+}
+.pras-ryt{
+  background-color: white;
+  color: black;
+  text-align: center;
+  flex-direction: column;
+  display: flex;
+  margin: 80px 0;
+  padding: 5px;
+  font-weight: 700;
+  border:2px solid aqua;
+}
+
+/*<<<---------------------- utils codes------------------------>>> */
+
+.text-center{
+    text-align:center;
+    background-color: white;
+    color: black;
+    font-weight: 900;  
+    text-decoration: underline;
+    position: static;
+    border:2px solid aqua;
+    
+  }
+  
+  .flex-col{
+    flex-direction: column;
+  }
+  .flex{
+    display: flex;
+  }
+  .items-center{
+    align-items: center;
+  }
+  .row{
+    margin: 8px 0px;
+  }
+  
+
+
+javascript: --
+
+let string = "";
+let buttons = document.querySelectorAll('.button');
+Array.from(buttons).forEach((button) => {
+  button.addEventListener('click', (e) => {
+    if (e.target.innerHTML == '=') {
+      string = eval(string);
+      document.querySelector('input').value = string;
+    }
+    else if (e.target.innerHTML == 'C') {
+      string = ""
+      document.querySelector('input').value = string;
+    }
+    else {
+      console.log(e.target)
+      string = string + e.target.innerHTML;
+      document.querySelector('input').value = string;
+    }
+  })
+})
+
+
