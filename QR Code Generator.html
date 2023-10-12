@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code Generator</title>
+
+    <!-- Include the latest FontAwesome library for icons (Font Awesome 5) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+    <style>
+        /* Common styles for the page */
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        #text-input {
+            border-radius: 20px;
+            padding: 10px;
+            width: 70%;
+            font-size: 1.6ems;
+        }
+        #generate-button {
+            margin-top: 10px;
+            border: none;
+            font-size: 16px;
+            font-weight: 600;
+            padding: 15px 30px;
+            border-radius: 30px;
+            cursor: pointer;
+        }
+        #generate-button:hover {
+            background-color: #cc0000;
+        }
+        #qrcode {
+            margin: 20px;
+        }
+        /* Custom styling for the QR code and its container */
+        #qrcode img {
+            margin: 0 auto;
+            display: block;
+            border: 10px solid #fff;
+            border-radius: 10px;
+            background-color: #fff;
+        }
+        .s {
+            font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 2em;
+        }
+        /* Day mode styles */
+        .day-mode {
+            background-color: #30D5C8;
+            color: #000;
+        }
+        /* Night mode styles */
+        .night-mode {
+            background-color: #6b6464;
+            color: #fff;
+        }
+        /* Position the mode toggle button in the top-right corner */
+        #mode-toggle-button {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: none;
+            border: none;
+            cursor: pointer;
+        }
+        label {
+            font-size: 20px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+    </style>
+</head>
+<body class="day-mode">
+    <button id="mode-toggle-button" onclick="toggleMode()" aria-label="Toggle Day/Night Mode">
+        <i id="mode-icon" class="fas fa-sun" aria-hidden="true"></i>
+    </button>
+    <h1 class="s">QR Code Generator</h1>
+
+    <label for="text-input">Enter text or URL:</label>
+    <input type="text" id="text-input">
+    <button id="generate-button" onclick="generateQRCode()">Generate QR Code</button>
+
+    <div id="qrcode"></div>
+
+    <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
+    <script>
+        function generateQRCode() {
+            var text = document.getElementById("text-input").value;
+
+            if (text) {
+                var qrcode = new QRCode(document.getElementById("qrcode"), {
+                    text: text,
+                    width: 128,
+                    height: 128
+                });
+
+                // Clear the input field after generating the QR code
+                document.getElementById("text-input").value = "";
+            }
+        }
+
+        function toggleMode() {
+            var body = document.body;
+            var modeButton = document.getElementById("mode-toggle-button");
+            var modeIcon = document.getElementById("mode-icon");
+
+            if (body.classList.contains("day-mode")) {
+                body.classList.remove("day-mode");
+                body.classList.add("night-mode");
+                modeIcon.classList.remove("fa-sun");
+                modeIcon.classList.add("fa-moon");
+            } else {
+                body.classList.remove("night-mode");
+                body.classList.add("day-mode");
+                modeIcon.classList.remove("fa-moon");
+                modeIcon.classList.add("fa-sun");
+            }
+        }
+    </script>
+</body>
+</html>
